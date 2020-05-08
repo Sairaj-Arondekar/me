@@ -69,9 +69,15 @@ h3 {
 }
 
 .music {
-  width: 40%;
+  width: 35%;
   float: right;
   margin-left: 20px;
+  padding-top: 75px;
+}
+
+.clearing {
+  clear: left;
+  padding-top: 90px;
 }
 
 a {
