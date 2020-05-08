@@ -63,21 +63,15 @@ h3 {
 }
 
 .video-games {
-  width: 40%;
+  width: 30%;
   float: left;
   margin-right: 20px;
 }
 
 .music {
-  width: 35%;
+  width: 30%;
   float: right;
   margin-left: 20px;
-  padding-top: 75px;
-}
-
-.clearing {
-  clear: left;
-  padding-top: 90px;
 }
 
 a {
